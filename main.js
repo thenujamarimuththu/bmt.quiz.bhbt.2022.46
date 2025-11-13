@@ -1,18 +1,18 @@
-Const events =[
+Constevents =[
 // --- Day 3: Nov 22, 2025 ---
     {
         title: "UI/UX Design Fundamentals for Developers",
         type: "Workshop",
         date: "2025-11-22T09:00:00",
         description: "A practical workshop on visual hierarchy, color theory, and typography that every developer should know.",
-        image: "images/ui-ux.jpg"
+        image: "ui-ux.jpg"
     },
     {
         title: "From Monolith to Serverless",
         type: "Talk",
         date: "2025-11-22T10:00:00",
         description: "A case study on migrating a large-scale legacy application to a modern serverless architecture.",
-        image: "images/serverless.jpg"
+        image: "serverless.jpg"
     },
     {
         title: "State of Web Assembly in 2025",
